@@ -1,4 +1,4 @@
-# A-B Testing with Cookie Cats
+# A/B Testing with Cookie Cats
 ![image](https://github.com/user-attachments/assets/15a36464-5f89-4c94-b511-1f4ae48f1ff7)
 
 ## Overview
